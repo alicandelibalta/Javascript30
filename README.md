@@ -1,2 +1,3 @@
-# Javascript30day
- bla
+# Javascript30
+
+ 30 simple Javascript application. 
